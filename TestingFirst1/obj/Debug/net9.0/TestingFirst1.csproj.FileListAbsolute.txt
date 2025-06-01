@@ -1,0 +1,14 @@
+c:\Users\johnb\OneDrive\Documentos\C# Class\TestingFirst1\bin\Debug\net9.0\TestingFirst1.exe
+c:\Users\johnb\OneDrive\Documentos\C# Class\TestingFirst1\bin\Debug\net9.0\TestingFirst1.deps.json
+c:\Users\johnb\OneDrive\Documentos\C# Class\TestingFirst1\bin\Debug\net9.0\TestingFirst1.runtimeconfig.json
+c:\Users\johnb\OneDrive\Documentos\C# Class\TestingFirst1\bin\Debug\net9.0\TestingFirst1.dll
+c:\Users\johnb\OneDrive\Documentos\C# Class\TestingFirst1\bin\Debug\net9.0\TestingFirst1.pdb
+c:\Users\johnb\OneDrive\Documentos\C# Class\TestingFirst1\obj\Debug\net9.0\TestingFirst1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\johnb\OneDrive\Documentos\C# Class\TestingFirst1\obj\Debug\net9.0\TestingFirst1.AssemblyInfoInputs.cache
+c:\Users\johnb\OneDrive\Documentos\C# Class\TestingFirst1\obj\Debug\net9.0\TestingFirst1.AssemblyInfo.cs
+c:\Users\johnb\OneDrive\Documentos\C# Class\TestingFirst1\obj\Debug\net9.0\TestingFirst1.csproj.CoreCompileInputs.cache
+c:\Users\johnb\OneDrive\Documentos\C# Class\TestingFirst1\obj\Debug\net9.0\TestingFirst1.dll
+c:\Users\johnb\OneDrive\Documentos\C# Class\TestingFirst1\obj\Debug\net9.0\refint\TestingFirst1.dll
+c:\Users\johnb\OneDrive\Documentos\C# Class\TestingFirst1\obj\Debug\net9.0\TestingFirst1.pdb
+c:\Users\johnb\OneDrive\Documentos\C# Class\TestingFirst1\obj\Debug\net9.0\TestingFirst1.genruntimeconfig.cache
+c:\Users\johnb\OneDrive\Documentos\C# Class\TestingFirst1\obj\Debug\net9.0\ref\TestingFirst1.dll
